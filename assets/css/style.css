@@ -1,0 +1,23 @@
+.jumbotron{
+	background-color:red;
+}
+
+.jumbotron .h1, .jumbotron h1{
+	color: yellow
+}
+
+.btn-primary{
+	color: hotpink
+}
+
+.jumbotron p{
+	font-weight: bold
+	
+}
+body{
+	background-color: black
+}
+p{
+	
+	background-color: blue
+}
